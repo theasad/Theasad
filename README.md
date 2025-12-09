@@ -25,9 +25,9 @@
 
 About me:
 
-- 🔭 I’m currently working at Aadi.com.bd
+- 🔭 I’m currently working at Genex Infosys Limited
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Python,PHP, JavaScript
+- 👯 I’m looking to collaborate on Python,PHP,JavaScript,NodeJs,TypeScript
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook, linkedin
 
